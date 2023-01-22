@@ -9,11 +9,10 @@
 
 - 🌱 I’m currently learning **python,jenkins,pytorch,**
 
-- 👯 I’m looking to collaborate on [Royal Auto parts Market](https://royalautopartsmarket.com/)
-
+ 
 - 🤝 I’m looking for help with [ECommerce Mobile App](https://play.google.com/store/apps/details?id=com.openflutter.openflutterecommerce)
 
-- 👨‍💻 All of my projects are available at [https://adroitclouderp.com/react-native-android/hire-software-developer.html](https://adroitclouderp.com/react-native-android/hire-software-developer.html)
+- 👨‍💻 All of my projects are available at [https://mobile-web-gis.pro/react-native-android/hire-software-developer.html](https://mobile-web-gis.pro)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/bibin-prathap-4a34a489/](https://www.linkedin.com/in/bibin-prathap-4a34a489/)
 
@@ -21,7 +20,7 @@
 
 - 📫 How to reach me **bibinprathap@gmail.com** **+971569245365**
 
-- 📄 Know about my experiences [https://adroitclouderp.com/react-native-android/Bibin%20Prathap-Abu%20Dhabi-a.pdf](https://adroitclouderp.com/react-native-android/Bibin%20Prathap-Abu%20Dhabi-a.pdf)
+- 📄 Know about my experiences [https://mobile-web-gis.pro/react-native-android/Bibin%20Prathap-Abu%20Dhabi-a.pdf](https://mobile-web-gis.pro/react-native-android/Bibin%20Prathap-Abu%20Dhabi-a.pdf)
 
 - ⚡ Fun fact **I think i am funny**
 
