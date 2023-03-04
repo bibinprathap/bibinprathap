@@ -8,9 +8,9 @@
 
 <p align="center">
 	 
-	<a href="https://github.com/bibinprathap"><img src="imgs/github.svg" alt="GitHub"></a>
-	<a href="https://www.linkedin.com/in/bibin-prathap-4a34a489/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a> 
-	<a href="https://mobile-web-gis.pro/react-native-android/hire-software-developer.html"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a> 
+	<a href="https://github.com/bibinprathap"><img src="github.svg" alt="GitHub"></a>
+	<a href="https://www.linkedin.com/in/bibin-prathap-4a34a489/"><img src="linkedin.svg" alt="LinkedIn"></a> 
+	<a href="https://mobile-web-gis.pro/react-native-android/hire-software-developer.html"><img src="cv.svg" alt="Curriculum Vitae"></a> 
 </p>
 
 - 🔭 I’m currently working on [Smart Inspector](https://smarthub.adm.gov.ae/login)
