@@ -13,7 +13,7 @@
  
 - 🤝 I’m looking for help with [ECommerce Mobile App](https://play.google.com/store/apps/details?id=com.openflutter.openflutterecommerce)
 
-- 👨‍💻 All of my projects are available at [https://mobile-web-gis.pro](https://mobile-web-gis.pro/react-native-android/hire-software-developer.html)
+- 👨‍💻 All of my projects are available at  [https://www.linkedin.com/in/bibin-prathap-4a34a489/](https://www.linkedin.com/in/bibin-prathap-4a34a489/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/bibin-prathap-4a34a489/](https://www.linkedin.com/in/bibin-prathap-4a34a489/)
 
