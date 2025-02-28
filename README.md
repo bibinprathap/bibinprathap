@@ -1,15 +1,175 @@
 <h1 align="center">Hi 👋, I'm Bibin Prathap</h1>
-<h3 align="center">Senior Full Stack Developer | React Native | React JS | Next JS | Node JS | Redux | DevOps | ES6 | MongoDB | Typescript | ES6 | Firebase | ORACLE | Arcgis esri map | .Net Web Api | c# | Rest api | jest unit testing | OpenCV | D3 |Charts JS, Flutter,Dart | SQL/NoSQL DB | Docker</h3>
+<h3 align="center">AI Tech Lead | AI & ML | BI & Analytics | Data Visualization | UAE Golden Visa | LLM | RAG  | Python | Node.js | React | React Native | ArcGIS | Mobile Apps | Strategy | Governance | Responsible AI | Public Sector</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bibinprathap&label=Profile%20views&color=0e75b6&style=flat" alt="bibinprathap" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bibinprathap" alt="bibinprathap" /></a> </p>
 <p align="center"><a href="https://github.com/bibinprathap"><img src="github.svg" alt="GitHub"></a><a href="https://www.linkedin.com/in/bibin-prathap-4a34a489/"><img src="linkedin.svg" alt="LinkedIn"></a> <a href="https://mobile-web-gis.pro/react-native-android/hire-software-developer.html"><img src="cv.svg" alt="Curriculum Vitae"></a> 
 </p>
-- 🔭 I’m currently working on [Space.ai](http://13.60.114.71/)
+- 🔭 I’m currently working on [Space.ai]https://spaceaiapp.com/login
 
 - 🌱 I’m currently learning **python,jenkins,pytorch,**
-
+Seasoned AI and Analytics Leader with over 12 years of experience in AI strategy, business intelligence, and data
+science. Proven track record in leading AI-driven initiatives that optimize operations, enhance decision-making,
+and unlock new revenue streams. Adept at aligning AI strategies with business objectives and fostering cross-
+functional collaboration. Expertise includes Generative AI, LLMs, NLP , AI governance, and AI-driven business
+transformation.
+Core Competencies
+● AI Strategy & Governance
+● Machine Learning & Deep Learning
+● Business Intelligence & Data Visualization
+● AI Adoption & Enterprise AI Implementation
+● Leadership & Cross-Functional Collaboration
+● Generative AI, LLMs, NLP , and AI Ethics
+● Cloud-based AI Deployments (AWS, Azure)
+● Predictive Analytics & Decision Intelligence
+● On-Premise LLMs & AI Infrastructure Optimization
+● AI Hardware & Performance Optimization Architecture
+● Solution Architecture & AI System Design
+● LangChain & FlowWise for AI Automation
+● LLaMA & DeepSeek LLMs Implementation
+● Vectorized Document Processing & Retrieval-Augmented Generation (RAG) Applications
+Experience
+Abu Dhabi Executive Office
+AI Strategy Lead | Data Science & BI Analytics
+AI & Machine Learning Leadership
+Developed AI roadmaps aligning with organizational goals, ethics, and governance.
+August 2012 -Present
+Abu bhabi
+Led enterprise-wide AI and data analytics initiatives for business intelligence.
+Designed and deployed AI solutions using TensorFlow, PyTorch, OpenAI, LLaMA, and DeepSeek.
+Spearheaded on-premise LLM deployments and optimized AI infrastructure.
+Developed vectorized document processing and RAG architectures for knowledge-based AI applications.
+Managed and mentored AI engineers, data scientists, and BI analysts.
+Fine-tuned LLMs for domain-specific applications and automated ML workflows.
+Key AI Projects
+AI Agent - Space AI
+Designed AI-driven workflow automation and form builder integration.
+Developed real-time workflow modeling using BPMN API.
+Enabled AI-assisted decision-making through workflow data insights.
+Document Chat Project
+Enhanced AI capabilities with automation and reporting.
+Automated dashboards and scoring mechanisms for operational effectiveness.
+Integrated AI for global delegation visit tracking and country insights.
+GIS Self-Service
+Developed a GIS data platform with 200+ layers for data-driven decision-making.
+Enabled advanced spatial analytics and real-time monitoring.
+Landing Page & Data Platform
+Created a data insights hub showcasing AI and BI products.
+Developed a dataset search and request portal for streamlined data access.
+Complaints Search AI
+Built an AI-powered search system for complaint management.
+Implemented NLP-driven synonym matching for improved search accuracy.
+Inspection AI
+Developed an AI-powered inspection automation platform.
+Integrated task management, work order tracking, and scheduling.
+Geo Space AI
+Combined GIS and BIM for real-time construction progress tracking.
+Enhanced project monitoring with AI-powered insights.
+Technical Expertise
+Expertise in Generative AI, NLP , Langchain, Deep Learning, and MLOps.
+Skilled in Python, R, TensorFlow, PyTorch, SQL, MongoDB, PostgreSQL, AWS, and Azure.
+Developed dashboards with Power BI, ArcGIS, and Google Maps API.
+Built large-scale ML projects, including traffic analysis and livability dashboards.
+Full-Stack & Application Development
+Developed applications using React.js, React Native, Angular, Next.js, .NET, Node.js, Express.js, and GraphQL.
+Led mobile and web app development, including survey apps, government office optimization, and executive
+dashboards.
+Worked on backend systems using ASP .NET Core, PL/SQL, Redis, PostgreSQL, and Oracle 12g.
+Notable Projects
+Livability Dashboard: ArcGIS-based 3D mapping for district-level analytics.
+Traffic Dashboard: Real-time traffic monitoring using Google Maps API.
+Survey Mobile App: Location-based data collection and scheduling using React Native.
+Aspiration Dashboard: Strategy visualization for Abu Dhabi Executive Office.
+Tech Mahindra
+Senior AI & Data Science Consultant
+March 2019 – August 2021
+Abu Dhabi
+AI & Digital Transformation Leadership
+Led AI adoption and digital transformation projects for government and enterprise clients.
+Developed AI-driven dashboards, real-time analytics, and decision support systems.
+Implemented NLP-based automation solutions, reducing manual workloads by 40%.
+Designed and fine-tuned LLMs for domain-specific applications.
+Built retrieval-augmented generation (RAG) architectures for AI-powered search and knowledge discovery.
+Led cross-functional teams integrating AI with business intelligence platforms.
+Mobile Inspection Management System (Abu Dhabi Municipality)
+Developed a mobile app for inspectors to conduct 15 types of inspections, including building/shop inspections,
+noise pollution, and abandoned vehicles.
+Integrated geofencing, inspector location tracking, and file uploads.
+Implemented Emirates ID scanning (Google Vision API), camera object detection (OpenCV), and ArcGIS Esri
+maps.
+Enabled Bluetooth printer connectivity and real-time task notifications (Firebase).
+Built using React Native, Redux, Java, Jest, Enzyme for Android & iOS.
+Backend developed with ASP .NET Web API, Entity Framework 6, Oracle 12g (PL/SQL).
+Followed Agile methodology and implemented process improvements and software testing.
+Technologies & Tools
+Frontend: React Native, Redux, Java, Jest, Enzyme
+Backend: ASP .NET Web API, Entity Framework 6, Node.js, C#, Oracle 12g (PL/SQL)
+DevOps & Testing: Git, WebPack, Firebase, Jest, Azure
+IDEs: Android Studio, Xcode, Visual Studio Code, Visual Studio 2017, Toad
+Stroika Computer Software
+Senior Software Developer
+Worked on My Ministry Project as part of a 14-member team, reporting to the Team Lead.
+March 2018 - March 2019
+Abu Dhabi
+Developed Performance Dashboard Software to measure department performance based on KPIs, featuring
+graphical reports, tables, and evidence tracking.
+Built secure email communication software for embassies and a media reporting system for global embassy
+submissions.
+Developed a department performance monitoring application, enabling KPI creation, monthly/quarterly
+scoring, and graphical performance visualization.
+Followed Agile methodology, implemented process improvements, and conducted software testing.
+Technical Expertise & Tools
+Frontend: Angular 6, TypeScript, JavaScript, HTML5, CSS, Bootstrap
+Backend: ASP .NET Core 2.2, Entity Framework 6, Node.js, Express.js, C#, Dapper ORM
+Databases: PostgreSQL, SQL Server
+APIs & Services: ASP .NET Web API, WCF Services
+DevOps & Testing: VSTS, Azure, WebPack, Jasmine (Unit & Integration Testing)
+Mobile Development: React Native
+State Corps
+Lead Software Developer
+Jan 2015
+Mar 2018
+Reported to the Manager and led a team of 5 developers, overseeing application development, support, and
+multiple project executions.
+Provided technical leadership in database architecture, software design, and development, following Agile-
+Scrum methodology.
+Managed application server, firewall supervision, front-end architecture (Angular6), and software testing.
+Conducted team administration, including work allocation, performance monitoring, feedback, and technical
+interviews.
+Key Projects
+Manufacturing ERP Software
+Comprehensive business management solution with modules for Finance, Sales, Inventory, Procurement,
+Fixed Assets, HR & Payroll.
+ERP Demo: Manufacturing ERP
+Cargo/Parcel Management Software
+End-to-end shipment management system for parcel delivery, shipment tracking, and logistics.
+Developed Android & iOS mobile apps for shipment booking and parcel pickup.
+Website: AeroParcel
+Forex Exchange Software
+Comprehensive platform for remittance and currency exchange operations.
+Technical Expertise & Tools
+Frontend: Angular6, Angular4, ES5, Bootstrap
+Backend: .NET Core, ASP .NET Web API, Node.js, Express.js, C#, Dapper ORM
+Databases: SQL Server
+DevOps & Testing: Azure, VSTS, WebPack
+Mobile Development: React Native
+ESAT
+Feb 2014 -July 2016
+Abu Dhabi
+Software Developer | Web Application & ERP Development
+Led ERP development integrating Finance, Sales, Inventory, Procurement, and Asset Management.
+Supervised web application development for mission-critical enterprise environments.
+Implemented banking software for call centers and developed WCF services for enterprise utilities.
+Oversaw database management, access control, and report development (Crystal Reports).
+Developed an Online CRM System with modules for Lead Management, Quotation, and Sales Invoicing.
+Tech Stack:
+ASP .NET, MVC5, C#, Node.js, Express.js, AngularJS, Oracle, Azure, Git, Web API, Dapper.
+Alwaffa Group
+Senior .NET Developer | E-Commerce Development
+Developed 12 dynamic e-commerce websites with product, user, and order management.
+Integrated online payments via Mashreq Bank, PayPal, and Etisalat Comtrust.
+Led analysis, design, coding, review, and testing, mentoring junior developers.
  
 - 🤝 I’m looking for help with [ECommerce Mobile App](https://play.google.com/store/apps/details?id=com.openflutter.openflutterecommerce)
 
