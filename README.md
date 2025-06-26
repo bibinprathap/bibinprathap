@@ -193,6 +193,8 @@ Seasoned AI and Analytics Leader with over 12 years of experience in AI strategy
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bibinprathap&show_icons=true&locale=en&layout=compact" alt="bibinprathap" /></p>
 
+# Whatsapp [wa.me/917994671704](http://wa.me/917994671704) 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bibinprathap&show_icons=true&locale=en" alt="bibinprathap" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bibinprathap&" alt="bibinprathap" /></p>
