@@ -34,7 +34,7 @@ Seasoned AI and Analytics Leader with over 12 years of experience in AI strategy
 
 ## Experience
 
-### Abu Dhabi Executive Office  
+### confidential  Government entity  
 **AI Strategy Lead | Data Science & BI Analytics**  
 📍 *August 2012 - Present | Abu Dhabi*
 
