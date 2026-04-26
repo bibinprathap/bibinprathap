@@ -5,9 +5,8 @@
 
 ---
 
-## 📌 Executive Summary (For Recruiters & Hiring Managers)
+## 📌 Executive Summary  
 
-> **TL;DR — A 30-second read for non-technical reviewers.**
 
 **1) The Business Problem I Solve**
 Large public-sector and enterprise organizations sit on huge volumes of unstructured data (documents, complaints, GIS layers, inspection reports) and struggle to turn it into decisions. I design and deliver **AI + analytics platforms** that convert that data into measurable outcomes — faster decisions, lower manual workload (up to **40% reduction**), and new revenue/insight streams.
@@ -20,7 +19,7 @@ End-to-end, production-grade AI systems:
 - 📧 **Email:** bibinprathap@gmail.com
 - 📱 **Phone / WhatsApp:** +971 56 924 5365
 - 💼 **LinkedIn:** [bibin-prathap-4a34a489](https://www.linkedin.com/in/bibin-prathap-4a34a489/)
-- 📄 **CV:** [Download PDF](https://mobile-web-gis.pro/react-native-android/Bibin%20Prathap-Abu%20Dhabi-a.pdf)
+- 📄 **CV:** [Download PDF](https://bibinprathap.com/Bibin_Prathap_Resume.pdf)
 - 🌐 **Portfolio:** [bibinprathap.com](https://bibinprathap.com/)
 - 🛂 **Work Authorization:** UAE Golden Visa holder — available for senior AI / Tech Lead roles.
 
