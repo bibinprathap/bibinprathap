@@ -1,8 +1,48 @@
 <h1 align="center">Hi 👋, I'm Bibin Prathap</h1>
-<h3 align="center">AI Specialist building Enterprise Knowledge Graphs, Model Context Protocol (MCP) servers, and on-premise Generative-AI automation</h3>
+<h3 align="center">Enterprise & Medical AI architect — explainable, auditable AI for regulated sectors</h3>
 <p align="center"><em>Microsoft MVP · UAE Golden Visa · Abu Dhabi — GraphRAG · MCP · On-Prem LLMs · Agentic AI · MLOps / LLMOps</em></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bibinprathap&label=Profile%20views&color=0e75b6&style=flat" alt="bibinprathap" /> </p>
+
+---
+
+## 🎯 Positioning
+
+> **Bibin Prathap builds explainable, enterprise-secure AI systems for regulated sectors — including medical and public-service use cases — with full source attribution and auditability.**
+
+I design trustworthy AI systems — GraphRAG, RAG, and decision-intelligence platforms — that regulated organisations can actually audit and rely on. A decade at the intersection of AI architecture and public-scale delivery, from government operating systems to open-source explainable-AI frameworks adopted worldwide.
+
+**Who I help**
+- **Enterprise decision-makers** — CTOs, heads of data, and transformation leads evaluating AI adoption.
+- **Regulated-sector buyers** — healthcare, finance, and government needing auditable AI.
+- **Technical peers & community** — developers adopting VeritasGraph / GraphRAG.
+- **Recruiters, award panels & press** — validating credibility and recognition.
+
+---
+
+## 🏛️ Authority Pillars
+
+### 🔧 BUILD — Engineering credibility
+- **VeritasGraph** — open-source GraphRAG framework (explainable, multi-hop, source-attributed). 
+- **Government-scale systems** — operating-system platform for a confidential government entity in Abu Dhabi and an AI inspection platform.
+
+### 📈 PROVE — Adoption & impact signals
+- **Open-source adoption** — GitHub stars/forks, PyPI downloads.
+- **Editorial curation** — Awesome Machine Learning, Awesome GraphRAG.
+- **Independent features** — Bohrium SciencePedia (medical/scientific applications).
+- **Public-service impact** — AI inspection system serving **3.5M+ residents**, ~**40%** workload reduction.
+- **Third-party validation** — USCIS-approved **EB-1A (Extraordinary Ability)** I-140 petition, an independent recognition of extraordinary ability in the field.
+
+### 🧭 GUIDE — Thought leadership
+- **14 technical articles** (2020–2025), sustained authorship.
+- **[YouTube](https://www.youtube.com/@bibinprathap8175)** explainer content.
+- **Peer adjudication** — AI Excellence Awards judge, The Diana Award evaluator.
+
+| Focus area | Lead pillar | Supporting proof |
+| --- | --- | --- |
+| AI (general) | GUIDE | Articles, YouTube, indexing (Python Weekly, LLM Daily, LibHunt) |
+| Enterprise AI | BUILD | Confidential Abu Dhabi government OS, SpaceAI products, RAG/LLM deployments |
+| Medical AI | PROVE | Bohrium feature, explainability/attribution, governance |
 
 ---
 
@@ -10,7 +50,7 @@
 
 
 **1) The Business Problem I Solve**
-Regulated enterprises and government entities sit on huge volumes of unstructured, siloed data (documents, complaints, GIS layers, inspection reports, ERP records) that LLMs alone can’t reason over safely. I design and deliver **Enterprise Knowledge Graphs**, **Model Context Protocol (MCP) servers**, and **on-premise Generative-AI automation** that turn that data into grounded, auditable decisions — cutting manual workload by up to **40%** while keeping data sovereign.
+Regulated enterprises and government entities sit on huge volumes of unstructured, siloed data (documents, complaints, GIS layers, inspection reports, ERP records) that LLMs alone can’t reason over safely. I design and deliver **explainable, enterprise-secure AI systems** — Enterprise Knowledge Graphs, **Model Context Protocol (MCP) servers**, and **on-premise Generative-AI automation** — that turn that data into grounded, **auditable, source-attributed** decisions, cutting manual workload by up to **40%** while keeping data sovereign. Every claim is decision-support, never diagnosis, and safety-first on regulated content.
 
 **2) The Architecture I Build**
 End-to-end, production-grade, on-prem-first GenAI systems:
@@ -20,9 +60,17 @@ End-to-end, production-grade, on-prem-first GenAI systems:
 - 📧 **Email:** bibinprathap@gmail.com
 - 📱 **Phone / WhatsApp:** +971 56 924 5365
 - 💼 **LinkedIn:** [bibin-prathap-4a34a489](https://www.linkedin.com/in/bibin-prathap-4a34a489/)
+- � **GitHub:** [bibinprathap](https://github.com/bibinprathap)
+- ▶️ **YouTube:** [@bibinprathap8175](https://www.youtube.com/@bibinprathap8175)
 - 📄 **CV:** [Download PDF](https://bibinprathap.com/Bibin_Prathap_Resume.pdf)
 - 🌐 **Portfolio:** [bibinprathap.com](https://bibinprathap.com/)
 - 🛂 **Work Authorization:** UAE Golden Visa holder — available for senior AI / Tech Lead roles.
+
+### 🔗 Verified public assets
+- 🌐 **Website:** [bibinprathap.com](https://bibinprathap.com)
+- 💼 **LinkedIn:** [bibin-prathap-4a34a489](https://www.linkedin.com/in/bibin-prathap-4a34a489/)
+- 🐙 **GitHub:** [github.com/bibinprathap](https://github.com/bibinprathap)
+- ▶️ **YouTube:** [@bibinprathap8175](https://www.youtube.com/@bibinprathap8175)
 
 ---
 
