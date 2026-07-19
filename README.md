@@ -317,7 +317,7 @@ AI Specialist and Microsoft MVP with 12+ years building production AI systems fo
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bibinprathap&show_icons=true&locale=en&layout=compact" alt="bibinprathap" /></p>
 
-# Whatsapp [wa.me/917994671704](http://wa.me/917994671704) 
+# Whatsapp [wa.me/971569245365](https://wa.me/971569245365) 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bibinprathap&show_icons=true&locale=en" alt="bibinprathap" /></p>
 
